@@ -1,0 +1,14 @@
+{
+  "name": "zyrnova-backend",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": { "dev": "node server.js" },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "csvtojson": "^2.0.10",
+    "express": "^4.19.2",
+    "express-fileupload": "^1.4.3",
+    "node-fetch": "^3.3.2"
+  }
+}
